@@ -1,6 +1,6 @@
 # Array Amplitude - Test
 
-This should take you no more than 40 minutes.
+_This should take you no more than 40 minutes._
 
 A non-empty zero-indexed array A consisting of N integers is given. The _amplitude_ of this array is defined as the largest possible difference between two of its elements, i.e.:
 
