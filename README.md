@@ -9,7 +9,7 @@ A non-empty zero-indexed array A consisting of N integers is given. The _amplitu
   
 Write a method:
 
-    public int solution(string s)
+    public int solution(int[] A)
 
 that, given a non-empty zero-indexed array A consisting of N integers, returns its amplitude.
 
